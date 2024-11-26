@@ -16,7 +16,7 @@ The repository includes the following types of templates:
 
 1. Clone this repository or download the ZIP file:
    ```bash
-   git clone https://github.com/yourusername/obsidian-templates.git
+   git clone https://github.com/DEODNiL/obsd_md_templates/tree/main
    ```
 
 2. Copy the templates to your Obsidian Vault:
